@@ -1,0 +1,6 @@
+{
+  "name": "Workforce Pulse Analytics",
+  "description": "Interactive HR dashboard analyzing employee attrition, demographics, and compensation drivers from workforce datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
